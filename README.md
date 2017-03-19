@@ -1,2 +1,1 @@
-# JMWY.github.io
-my blog
+# https://jmwy.github.io/
